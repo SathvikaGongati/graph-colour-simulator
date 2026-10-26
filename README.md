@@ -32,8 +32,8 @@ Download or clone this repository.
 Open a terminal in the project folder.
 
 Run the following command:
+graphsimulator.py
 
-python chromatic_studio.py
 Expected Result
 
 The application opens a graphical interface where users can create graphs, connect nodes, select colours, and run the graph colouring algorithm.
